@@ -1,0 +1,93 @@
+body{
+	font-family: 'Inter', sans-serif;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+	color: #0a0a0a;
+}
+.images-new{
+	width: 350px;
+	margin-left: 190px;
+	margin-bottom: auto;
+}
+.new-info{
+display: flex;
+	align-items: center;
+	max-width: 1000px;
+	margin: 0px auto;
+	margin-top: 50px;
+}
+.container{
+	margin-bottom: auto;
+	padding: 30px;
+}
+.new-title,
+.color-title{
+	margin: 0 0 50px;
+    text-transform: uppercase;
+    color: #717171;
+    font-size: 32px;
+    line-height: 39px;
+    font-weight: 700;
+    text-align: center;
+
+}
+span{
+	font-weight: bold;
+	color: #717171;
+}
+p{
+	font-size: 18px;
+}
+
+.new h2{
+	text-align: center;
+}
+.color-list{
+	display: flex;
+	justify-content: space-between;
+	text-align: center;
+	list-style: none;
+
+}
+.color-item img{
+margin-bottom: 20px;
+height: 300px;
+width: 300px;
+}
+.color-item h3{
+	font-size: 20px;
+	line-height: 26px;
+	margin: 0 0 10px;
+}
+.color-item p{
+margin: 0;
+}
+.mamas{
+	color: black;
+}
+
+.color-item a{
+	text-decoration: none;
+}
+.color-item{
+	display: flex;
+	margin-bottom: auto;
+}
+.color-list2{
+	display: flex;
+	text-align: center;
+	list-style: none;
+}
+.gramota.jfif{
+	margin-bottom: 20px;
+}
+.color-item2 img{
+	width: 350px;
+	height: 500px;
+}
+
+.color-list{
+	max-width: 1000px;
+	margin: 0px auto;
+}
